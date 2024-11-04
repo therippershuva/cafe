@@ -1,0 +1,31 @@
+p{
+    color:white;
+    background-color: brown;
+    
+}
+#header1{
+  text-align: center;
+  border: 2px solid yellow;
+  width: auto;
+    color:yellow;
+    background: red;
+}
+#pasta{
+    color:magenta;
+}
+#salad{
+    color:darkmagenta;
+}
+a:hover {
+    color: orange;
+  }
+  #loca{
+    color:blueviolet;
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  p.location { 
+    margin: 3px;
+  }
+  .veg{
+
+  }
